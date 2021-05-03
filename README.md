@@ -1,5 +1,4 @@
-# 5990M-assignment1-201411011
-GUI.py: final model
+Final Model.py: final model using GUI
 -----------------------------------
 agentframework_new.py: Agent class only used in GUI
 -----------------------------------
