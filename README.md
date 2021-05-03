@@ -1,6 +1,6 @@
 Final Model.py: final model using GUI
 -----------------------------------
-agentframework_new.py: Agent class only used in GUI
+agentframework_new.py: Agent class only used in final model
 -----------------------------------
 In.txt: envrionment data
 -----------------------------------
